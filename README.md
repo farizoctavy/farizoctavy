@@ -1,4 +1,4 @@
-i'm fariz — a UX Designer.
+<h2>i'm Fariz Oktavian — a UX Designer.</h2>
 
 i love crafting digital experiences that feel simple, meaningful, and visually clean.
 

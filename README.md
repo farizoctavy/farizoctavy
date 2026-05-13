@@ -7,6 +7,7 @@ currently exploring:
 <br> 🎨 motion & micro interactions
 <br> 🖼️ product design
 <br> 💫 modern web experiences
+<br> 🤖 artificial intelligence and emerging technologies
   
 tech i use:
 `react` `javascript` `tailwindcss` `vite` `figma` `framer` `notion`

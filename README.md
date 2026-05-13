@@ -13,10 +13,10 @@ tech i use:
 `react` `javascript` `tailwindcss` `vite` `figma` `framer` `notion`
 
 fun fact:
-i love running ✨
+I love running, photography and documenting things that make me happy. 🫶🏻
 
 reach me:
-<a href="https://www.linkedin.com/in/farizoktaviaan/">LinkedIn</a> <a href="https://www.instagram.com/farizoctavy/">Instagram</a>
+<a href="https://www.linkedin.com/in/farizoktaviaan/">LinkedIn</a> <a href="https://www.instagram.com/sskyblvve/">Instagram</a>
 <a href="https://dribbble.com/farizoktaviaan">Dribble</a>
 
 <!--

@@ -1,7 +1,4 @@
-# farizoctavy-
-# hello there 👋
-
-i'm fariz — a ux designer & frontend developer.
+i'm fariz — a UX Designer.
 
 i love crafting digital experiences that feel simple, meaningful, and visually clean.
 
@@ -18,7 +15,7 @@ fun fact:
 i enjoy turning ideas into interfaces ✨
 
 reach me:
-linkedin • portfolio • instagram
+<a href="https://www.linkedin.com/in/farizoktaviaan/">LinkedIn •</a> <a href="https://www.instagram.com/farizoctavy/">Instagram •</a>
 
 <!--
 **farizoctavy/farizoctavy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-<h2>i'm Fariz Oktavian — a UX Designer.</h2>
+<h2>i'm farizoctavy — a UX Designer.</h2>
 
 i love crafting digital experiences that feel simple, meaningful, and visually clean.
 
@@ -12,10 +12,10 @@ tech i use:
 `react` `javascript` `tailwindcss` `vite` `figma` `framer`
 
 fun fact:
-i enjoy turning ideas into interfaces ✨
+i love running ✨
 
 reach me:
-<a href="https://www.linkedin.com/in/farizoktaviaan/">LinkedIn •</a> <a href="https://www.instagram.com/farizoctavy/">Instagram •</a>
+<a href="https://www.linkedin.com/in/farizoktaviaan/">LinkedIn</a> <a href="https://www.instagram.com/farizoctavy/">Instagram</a>
 
 <!--
 **farizoctavy/farizoctavy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
